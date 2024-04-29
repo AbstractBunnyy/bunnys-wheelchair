@@ -1,0 +1,6 @@
+Config = {
+    FuelExportName = 'cdn-fuel', -- Change as needed
+    WheelchairModel = 'iak_wheelchair' -- Change as needed
+}
+
+return Config
