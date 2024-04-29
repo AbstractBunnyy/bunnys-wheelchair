@@ -4,6 +4,11 @@ game 'gta5'
 description 'QB-wheelchair'
 author 'elfishii and Bunny'
 version '1.0.0'
-
-client_script 'client/main.lua'
-server_script 'server/main.lua'
+client_scripts {
+    'config.lua',
+    'client/main.lua'
+}
+server_scripts {
+    'config.lua',
+    'server/main.lua',
+}
