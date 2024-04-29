@@ -1,5 +1,5 @@
 #
-![png](https://discord.com/channels/848608027254194196/848608027254194199/1234464173170360442)
+![png](https://cdn.discordapp.com/attachments/848608027254194199/1234464172956323872/Picsart_24-04-29_07-16-05-452.jpg?ex=6630d3da&is=662f825a&hm=1c93706d431d03c240e0290a3ad0e19a7aa6a92d5ede185b68684e47556868ea&)
 
 # qb-wheelchair
 this is a simple script that allows you to spawn a wheelchair next to you when the item is used
